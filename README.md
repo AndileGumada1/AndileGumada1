@@ -5,7 +5,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions .
-- 🎓 &nbsp; Studied Software Development at JumpCo Software Labs in Cresta.
+- 🎓 &nbsp; Studied Systems Development at JumpCo Software Labs in Cresta.
 - 💼 &nbsp; Working as a Help Desk Technician at South West Gauteng College.
 - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Microservices.
 
