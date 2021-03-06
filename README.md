@@ -35,7 +35,7 @@
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![PyCharm IDE](https://img.shields.io/badge/-PyCharm-333333?style=flat&logo=pycharm)
-  ![IntelliJ IDE](https://img.shields.io/badge/-Intellij-333333?style=flat&logo=intellij)
+  ![IntelliJ IDEA](https://img.shields.io/badge/-Intellij-333333?style=flat&logo=intellij)
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
 
 
