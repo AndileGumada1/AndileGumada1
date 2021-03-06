@@ -35,6 +35,7 @@
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![PyCharm IDE](https://img.shields.io/badge/-PyCharm-333333?style=flat&logo=pycharm)
+  ![IntelliJ IDE](https://img.shields.io/badge/-Intellij-333333?style=flat&logo=intellij)
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
 
 
@@ -52,6 +53,7 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/andile-gumada-5962b1157/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Andile%20Gumada-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:decemberandile@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-decemberandile@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:https://twitter.com/andygumada"><img alt="Email" src="https://img.shields.io/badge/https://twitter.com/andygumada-blue?style=flat-square&logo=twitter"></a>
 </p>
 
 ⭐️ From [AndyG911](https://github.com/AndyG911)
