@@ -2,7 +2,7 @@
 
 <h2> Hey there! I'm Andile.</h2>
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+<h3> 👨🏻‍💻 About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions .
 - 🎓 &nbsp; Studied Systems Development at JumpCo Software Labs in Cresta.
@@ -42,9 +42,9 @@
 
 <br/>
 
-<a href="https://github.com/AndyG911">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AndyG911&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndyG911&theme=buefy&layout=compact" />
+<a href="https://github.com/AndileGumada1">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AndileGumada1&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndileGumada1&theme=buefy&layout=compact" />
 </a>
 
 <br/>
@@ -57,4 +57,4 @@
 <a href="mailto:https://twitter.com/andygumada"><img alt="Twitter" src="https://img.shields.io/badge/https://twitter.com/andygumada-blue?style=flat-square&logo=twitter"></a>
 </p>
 
-⭐️ From [AndyG911](https://github.com/AndyG911)
+⭐️ From [AndyG911](https://github.com/AndileGumada1)
