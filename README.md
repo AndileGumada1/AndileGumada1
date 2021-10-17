@@ -14,10 +14,12 @@
 
 - 💻 &nbsp;
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+  ![Kotlin](https://img.shields.io/badge/-Kotlin-333333?style=flat&logo=kotlin)
+  ![Spring Framework](https://img.shields.io/badge/-SPRING-333333?style=flat&logo=spring)
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![Django ](https://img.shields.io/badge/-Django-333333?style=flat&logo=django)
   ![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=Flask&logoColor=007396)
-  ![Spring Framework](https://img.shields.io/badge/-SPRING-333333?style=flat&logo=spring)
+ 
 
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
