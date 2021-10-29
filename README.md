@@ -14,8 +14,9 @@
 
 - 💻 &nbsp;
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-  ![Kotlin](https://img.shields.io/badge/-Kotlin-333333?style=flat&logo=kotlin)
   ![Spring Framework](https://img.shields.io/badge/-SPRING-333333?style=flat&logo=spring)
+  ![Kotlin](https://img.shields.io/badge/-Kotlin-333333?style=flat&logo=kotlin)
+  ![Maven](https://img.shields.io/badge/-Maven-333333?style=flat&logo=maven)
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![Django ](https://img.shields.io/badge/-Django-333333?style=flat&logo=django)
   ![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=Flask&logoColor=007396)
