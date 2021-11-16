@@ -62,4 +62,4 @@
 <a href="mailto:https://twitter.com/andygumada"><img alt="Twitter" src="https://img.shields.io/badge/https://twitter.com/andygumada-blue?style=flat-square&logo=twitter"></a>
 </p>
 
-⭐️ From [AndyG911](https://github.com/AndileGumada1)
+⭐️ From [AndileGumada1](https://github.com/AndileGumada1)
