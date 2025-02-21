@@ -6,7 +6,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions .
 - 🎓 &nbsp; Studied Systems Development at JumpCo Software Labs in Cresta.
-- 💼 &nbsp; Working as a Junior Software Developer at Xgile IT Randburg.
+- 💼 &nbsp; Working as a Test Engineer for a Sounth African top 4 bank.
 - 🌱 &nbsp; Learning more about Design Patterns Cloud Architecture, Systems Design and Microservices.
 
 
